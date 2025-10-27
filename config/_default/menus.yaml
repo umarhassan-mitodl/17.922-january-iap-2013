@@ -1,0 +1,31 @@
+leftnav:
+- identifier: ff47fa8a-daba-4014-ab6d-a138c8151df0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f7f0f15c-43bf-69f2-23fb-459a5f049372
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: b478624d-b8f3-bc08-6512-5af606432609
+  name: Activities
+  pageRef: /pages/activities
+  weight: 30
+- identifier: eafe520e-ccfb-de37-9e00-c47adf3eee40
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: c370fb02-fb54-8281-f0d7-ef26373f6312
+  name: Homework Assignments
+  pageRef: /pages/assignments/homework-assignments
+  parent: eafe520e-ccfb-de37-9e00-c47adf3eee40
+  weight: 50
+- identifier: e6ab6006-8559-5ae6-d681-4536fd08bc6e
+  name: Reflection Papers
+  pageRef: /pages/assignments/reflection-papers
+  parent: eafe520e-ccfb-de37-9e00-c47adf3eee40
+  weight: 60
+- identifier: 08203278-88bc-e2b6-5b15-49f0cb74e304
+  name: Image Gallery
+  pageRef: /pages/image-gallery
+  weight: 70
